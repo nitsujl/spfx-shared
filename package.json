@@ -1,0 +1,19 @@
+{
+  "name": "spfx-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitsujl/spfx-shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitsujl/spfx-shared/issues"
+  },
+  "homepage": "https://github.com/nitsujl/spfx-shared#readme"
+}
