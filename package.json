@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nitsujl/spfx-shared/issues"
   },
-  "homepage": "https://github.com/nitsujl/spfx-shared#readme"
+  "homepage": "https://github.com/nitsujl/spfx-shared#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
